@@ -1,5 +1,5 @@
 # demo2
 This is my first project that I did at the beginning of my coding journey: <br>
-<h3>kingstar website based on networking support static website.</h3>
+kingstar website based on networking support static website.
 <br>
-Author-Ambika Harke
+<h3>Author-Ambika Harke</h3>
